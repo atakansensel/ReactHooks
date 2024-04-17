@@ -32,9 +32,6 @@ function Counter() {
       <button onClick={Increment}>
         +
       </button>
-      <button onClick={Increment}>
-        
-      </button>
       <button onClick={Decrement}>
         -
       </button>
